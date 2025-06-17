@@ -14,3 +14,5 @@ Comment from the leture: The feature is implemented with some bugs(Adding menu I
 # I have added the ham burger menu on top right to navigate different pages
 
 # i have also added log out button where you can exit from the app and everything working fine with no bugs.
+
+# Video presenting the app: https://youtu.be/r1RQx4ZT6lw
